@@ -1,0 +1,10 @@
+﻿@model List<VideoPlayer.Repositories.Video>
+@{
+    ViewData["Title"] = "Video Playback";
+}
+
+<!-- Your view content starts here -->
+@foreach (var video in Model)
+{
+    <a href="/Video/Play/@video.Id">@video.Title</a>
+}

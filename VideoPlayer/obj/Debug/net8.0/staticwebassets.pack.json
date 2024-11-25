@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\VideoPlayer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VideoPlayer.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\Recording 2024-10-19 010215.mp4",
+      "PackagePath": "staticwebassets\\uploads\\Recording 2024-10-19 010215.mp4"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\Recording 2024-10-21 220327.mp4",
+      "PackagePath": "staticwebassets\\uploads\\Recording 2024-10-21 220327.mp4"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\Screen Recording 2024-10-03 184429.mp4",
+      "PackagePath": "staticwebassets\\uploads\\Screen Recording 2024-10-03 184429.mp4"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\Recording 2024-10-19 010215.mp4\\Recording 2024-10-19 010215.m3u8",
+      "PackagePath": "staticwebassets\\uploads\\hls\\Recording 2024-10-19 010215.mp4\\Recording 2024-10-19 010215.m3u8"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\Recording 2024-10-19 010215.mp4\\Recording 2024-10-19 010215000.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\Recording 2024-10-19 010215.mp4\\Recording 2024-10-19 010215000.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\Recording 2024-10-19 010215.mp4\\Recording 2024-10-19 010215001.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\Recording 2024-10-19 010215.mp4\\Recording 2024-10-19 010215001.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\Recording 2024-10-19 010215.mp4\\Recording 2024-10-19 010215002.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\Recording 2024-10-19 010215.mp4\\Recording 2024-10-19 010215002.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\Recording 2024-10-19 010215.mp4\\Recording 2024-10-19 010215003.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\Recording 2024-10-19 010215.mp4\\Recording 2024-10-19 010215003.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\Recording 2024-10-19 010215.mp4\\Recording 2024-10-19 010215004.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\Recording 2024-10-19 010215.mp4\\Recording 2024-10-19 010215004.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\Recording 2024-10-21 220327.mp4\\Recording 2024-10-21 220327.m3u8",
+      "PackagePath": "staticwebassets\\uploads\\hls\\Recording 2024-10-21 220327.mp4\\Recording 2024-10-21 220327.m3u8"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\Recording 2024-10-21 220327.mp4\\Recording 2024-10-21 220327000.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\Recording 2024-10-21 220327.mp4\\Recording 2024-10-21 220327000.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\Recording 2024-10-21 220327.mp4\\Recording 2024-10-21 220327001.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\Recording 2024-10-21 220327.mp4\\Recording 2024-10-21 220327001.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\Recording 2024-10-21 220327.mp4\\Recording 2024-10-21 220327002.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\Recording 2024-10-21 220327.mp4\\Recording 2024-10-21 220327002.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\Screen Recording 2024-10-03 184429.mp4\\Screen Recording 2024-10-03 184429.m3u8",
+      "PackagePath": "staticwebassets\\uploads\\hls\\Screen Recording 2024-10-03 184429.mp4\\Screen Recording 2024-10-03 184429.m3u8"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\Screen Recording 2024-10-03 184429.mp4\\Screen Recording 2024-10-03 184429000.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\Screen Recording 2024-10-03 184429.mp4\\Screen Recording 2024-10-03 184429000.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\Screen Recording 2024-10-03 184429.mp4\\Screen Recording 2024-10-03 184429001.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\Screen Recording 2024-10-03 184429.mp4\\Screen Recording 2024-10-03 184429001.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\Screen Recording 2024-10-03 184429.mp4\\Screen Recording 2024-10-03 184429002.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\Screen Recording 2024-10-03 184429.mp4\\Screen Recording 2024-10-03 184429002.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.m3u8",
+      "PackagePath": "staticwebassets\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.m3u8"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส000.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส000.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส001.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส001.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส002.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส002.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส003.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส003.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส004.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส004.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส005.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส005.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส006.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส006.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส007.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส007.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส008.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส008.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส009.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส009.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส010.ts",
+      "PackagePath": "staticwebassets\\uploads\\hls\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส010.ts"
+    },
+    {
+      "Id": "D:\\video_project\\VideoPlayer\\wwwroot\\uploads\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4",
+      "PackagePath": "staticwebassets\\uploads\\หมูเด้งถูกผีหลอก( ครูบาหมูเด้งช่วยผู้ประส.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VideoPlayer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VideoPlayer.props",
+      "PackagePath": "build\\VideoPlayer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VideoPlayer.props",
+      "PackagePath": "buildMultiTargeting\\VideoPlayer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VideoPlayer.props",
+      "PackagePath": "buildTransitive\\VideoPlayer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
